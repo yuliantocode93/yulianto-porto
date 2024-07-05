@@ -94,6 +94,14 @@ const projectsData = [
     tag: ["Web"],
     previewUrl: "https://github.com/yuliantocode93/mern-authentication.git",
   },
+  {
+    id: 12,
+    title: "Front-end Sisko API",
+    description: "Using ReactJS and Sisko API",
+    image: "/images/projects/sisko-api.png",
+    tag: ["Web"],
+    previewUrl: "https://github.com/yuliantocode93/FE-Sisko-API.git",
+  },
 ];
 
 const ProjectsSection = () => {
