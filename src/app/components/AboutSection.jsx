@@ -28,7 +28,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Universitas Terbuka - Bachelor of Elementary School Education</li>
+        <li>Universitas Terbuka - Bachelor of Elementary Teacher Education</li>
       </ul>
     ),
   },
