@@ -4,19 +4,19 @@ import React from "react";
 const achievementsList = [
   {
     metric: "Projects",
-    value: "12",
+    value: "50",
     postfix: "+",
   },
   {
     prefix: "~",
     metric: "Framework",
-    value: "3",
+    value: "5",
     postfix: "+",
   },
 
   {
     metric: "Year of experience",
-    value: "1",
+    value: "2",
     postfix: "+",
   },
 ];
