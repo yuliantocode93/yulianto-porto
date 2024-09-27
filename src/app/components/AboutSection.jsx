@@ -13,13 +13,14 @@ const TAB_DATA = [
         <li>TypeScript</li>
         <li>HTML</li>
         <li>CSS</li>
+        <li>Bootstrap </li>
+        <li>TailwindCS </li>
         <li>Next.js</li>
         <li>ReactJS</li>
         <li>ExpressJS </li>
         <li>MongoDB </li>
         <li>MySQL </li>
-        <li>Bootstrap </li>
-        <li>TailwindCS </li>
+        <li>Golang</li>
       </ul>
     ),
   },
