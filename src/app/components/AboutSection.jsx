@@ -39,7 +39,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>
-          <a href="https://drive.google.com/file/d/1vRQua46A0gBMexhX28R7KaDuYVwwIpOv/view?usp=drive_link" target="_blank">
+          <a href="https://drive.google.com/file/d/1uiZC4bzv7K2OMbz2DmjTSmm6BTmLs15M/view?usp=drive_link" target="_blank">
             Eduwork - MERN Stack
           </a>
         </li>
