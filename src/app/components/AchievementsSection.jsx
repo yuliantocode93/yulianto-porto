@@ -4,7 +4,7 @@ import React from "react";
 const achievementsList = [
   {
     metric: "Projects",
-    value: "50",
+    value: "10",
     postfix: "+",
   },
   {
@@ -16,7 +16,7 @@ const achievementsList = [
 
   {
     metric: "Year of experience",
-    value: "2",
+    value: "1",
     postfix: "+",
   },
 ];
