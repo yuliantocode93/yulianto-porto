@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
@@ -20,7 +19,10 @@ const HeroSection = () => {
             <Link href="https://wa.me/625384391745" className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white">
               Hire Me
             </Link>
-            <Link href="https://drive.google.com" className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3">
+            <Link
+              href="https://docs.google.com/document/d/1z7q44b01msTWDYmsBTtaqfU-ifmDt-ZcFyJ-HQ4Z1tA/edit?usp=sharing"
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+            >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">Download CV</span>
             </Link>
           </div>
