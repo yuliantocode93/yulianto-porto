@@ -55,14 +55,6 @@ const projectsData = [
     previewUrl: "https://github.com/yuliantocode93/nodejs-API-mongoDB-mySQL.git",
   },
   {
-    id: 7,
-    title: "Youtube Clone",
-    description: "Using ReactJS, Material UI and YouTube API",
-    image: "/images/projects/youtube.png",
-    tag: ["Web"],
-    previewUrl: "https://github.com/yuliantocode93/YLCM-Media.git",
-  },
-  {
     id: 8,
     title: "MERN Ecommerce",
     description: "Using ReactJS, Redux, ExpressJS and MongoDB",
