@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "kosong",
+    title: "coming soon",
     description: "",
     image: "",
     tag: ["Web"],
@@ -16,7 +16,7 @@ const projectsData = [
 
   {
     id: 2,
-    title: "kosong",
+    title: "coming soon",
     description: "",
     image: "",
     tag: ["Web"],
@@ -25,7 +25,7 @@ const projectsData = [
 
   {
     id: 3,
-    title: "kosong",
+    title: "coming soon",
     description: "",
     image: "",
     tag: ["Web"],
@@ -34,7 +34,7 @@ const projectsData = [
 
   {
     id: 4,
-    title: "kosong",
+    title: "coming soon",
     description: "",
     image: "",
     tag: ["Web"],
